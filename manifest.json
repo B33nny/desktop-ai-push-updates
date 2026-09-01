@@ -1,0 +1,12 @@
+{
+  "version": "1.0.2",
+  "channel": "stable",
+  "platform": "windows",
+  "arch": "x64",
+  "installer_url": "https://github.com/B33nny/ben-ai-desktop-build/releases/download/v1.0.2/BenAiDesktopSetup.exe",
+  "installer_sha256": "1f71376ddba8e62eed0c48e231279569c7cdae8af4d1f67971780d0ce263076d",
+  "installer_size": 1160284182,
+  "notes": "PyInstaller-based v1.0.2 online release. Includes G1/G2/G3 hardening from the v4 audit plus 3 Inquisitor Steel Reinforcements (atomic marker claim, cmd /v:on, G3 reordering). Next bump will be Nuitka via auto-update.",
+  "released_at": "2026-09-01T12:55:05.617000+00:00",
+  "signature": "kPA8stx9hUTaTSK8cQXgQBpsMQTY+w+KpvjcARC3vi0uDI0LLJlVYa9tNWi/nFis1+A8N15IIJSCOKIRmA6/Cg=="
+}
