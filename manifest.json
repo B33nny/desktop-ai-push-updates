@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "channel": "stable",
+  "platform": "windows",
+  "arch": "x64",
+  "installer_url": "https://github.com/B33nny/ben-ai-desktop-build/releases/download/v1.0.1/BenAiDesktopSetup.exe",
+  "installer_sha256": "2b33155896f061fc85f735a869113a60acb81a323095f16dd284760dcb8234a8",
+  "installer_size": 1197712192,
+  "notes": "First post-audit release (2026-09-01): whisper STT, account/email flows, Nuitka release path. Installer is unsigned (SmartScreen will warn -- More info -> Run anyway).",
+  "released_at": "2026-09-01T02:08:54.697923+00:00",
+  "signature": "lSQf/1uGeZBBTzpAlNPp0U10f7v9jN4UGyXW8RCxosSVe4r0HYRr0xDffSDfjrLL8CaUEASbF1s8LCJLGaMCDQ=="
+}
