@@ -1,0 +1,12 @@
+{
+  "version": "1.0.6",
+  "channel": "stable",
+  "platform": "windows",
+  "arch": "x64",
+  "installer_url": "https://github.com/B33nny/desktop-ai-push-updates/releases/download/v1.0.6/BenAiDesktopSetup-1.0.6.exe",
+  "installer_sha256": "a356a666447f6e3c3c717e41d16605045ffc6d12db2e52ee307bf92f90351c04",
+  "installer_size": 1160216139,
+  "notes": "v1.0.6: Jade Seal login, license activation, token auto-renew, admin-session fixes + updater version parser fix.",
+  "released_at": "2026-09-08T19:20:00Z",
+  "signature": "uWpKiAIvgsywh7XYtJq0kZlzGRzu6liIT/QLcCOjvpGvrO49V3tKw3ggCYTYr6XG3cVkm4S9ufreeV9du+g8Bw=="
+}
